@@ -1,0 +1,38 @@
+.carnivoros{
+
+    background-color: crimson;
+
+}
+
+.herbivoros{
+
+    background-color: lime;
+
+}
+
+.voladores{
+
+    text-shadow: 5px 5px lightgray;
+
+}
+
+.acuaticos{
+
+    color: aquamarine;
+    font-style: italic;
+
+}
+
+#rex{
+
+    font-size: 24px;
+    color:red
+
+}
+
+#tric{
+
+    font-weight: 1200;
+    text-decoration: underline;
+
+}
